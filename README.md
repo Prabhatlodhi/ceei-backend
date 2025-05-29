@@ -94,7 +94,7 @@ backend/
 ```bash
 PORT=5000
 NODE_ENV=development
-MONGODB_URI=mongodb://localhost:27017/employee_feedback
+MONGODB_URI={SHARED IN EMAIL DOC}
 FRONTEND_URL=http://localhost:5173
 ```
 
